@@ -2,7 +2,7 @@
 
 - Link a la presentación [http://es.slideshare.net/martingonzalezrobles9/varnish-para-meros-mortales](http://es.slideshare.net/martingonzalezrobles9/varnish-para-meros-mortales)
 
-[![ScreenShot](https://github.com/mgzrobles/dcamp2016-varnish/blob/master/varnishslides.PNG?raw=true)](http://es.slideshare.net/martingonzalezrobles9/varnish-para-meros-mortales)
+[![ScreenShot](https://github.com/mgzrobles/dcamp2016-varnish/blob/master/img/varnishslides.PNG?raw=true)](http://es.slideshare.net/martingonzalezrobles9/varnish-para-meros-mortales)
 
 
 
